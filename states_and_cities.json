@@ -1,0 +1,1311 @@
+[
+    {
+        "id": 1,
+        "name": "منطقة الرياض",
+        "en_name": "Riyadh",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 1,
+                "state_id": 1,
+                "name": "الرياض",
+                "en_name": "Riyadh",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 2,
+                "state_id": 1,
+                "name": "الدرعية",
+                "en_name": "Ad Diriyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 3,
+                "state_id": 1,
+                "name": "الخرج",
+                "en_name": "Al-Kharj",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 4,
+                "state_id": 1,
+                "name": "الدودامي",
+                "en_name": "Dawadmi",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 5,
+                "state_id": 1,
+                "name": "المجمعة",
+                "en_name": "Al Majma`ah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 6,
+                "state_id": 1,
+                "name": "القويعية",
+                "en_name": "Al-Gwei'iyyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 7,
+                "state_id": 1,
+                "name": "الافلاج",
+                "en_name": "Layla",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 8,
+                "state_id": 1,
+                "name": "وادي الدواسر",
+                "en_name": "Wadi Al-Dawasir",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 9,
+                "state_id": 1,
+                "name": "الزلفي",
+                "en_name": "Zulfi",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 10,
+                "state_id": 1,
+                "name": "شقراء",
+                "en_name": "Shaqraa",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 11,
+                "state_id": 1,
+                "name": "حوصة بني تميم",
+                "en_name": "Howtat Bani Tamim",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 12,
+                "state_id": 1,
+                "name": "عفيف",
+                "en_name": "Afif",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 13,
+                "state_id": 1,
+                "name": "الغاط",
+                "en_name": "Al Ghat",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 14,
+                "state_id": 1,
+                "name": "السليل",
+                "en_name": "As Sulayyil",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 15,
+                "state_id": 1,
+                "name": "ضرما",
+                "en_name": "Dhurma",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 16,
+                "state_id": 1,
+                "name": "المزاحمية",
+                "en_name": "Al-Muzahmiya",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 17,
+                "state_id": 1,
+                "name": "رماح",
+                "en_name": "Rumah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 18,
+                "state_id": 1,
+                "name": "ثادق",
+                "en_name": "Thadiq",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 19,
+                "state_id": 1,
+                "name": "حريملاء",
+                "en_name": "Huraymila",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 20,
+                "state_id": 1,
+                "name": "الحريق",
+                "en_name": "Al Hariq",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 21,
+                "state_id": 1,
+                "name": "مرات",
+                "en_name": "Murat",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 22,
+                "state_id": 1,
+                "name": "الرين",
+                "en_name": "Ar Rayn",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 23,
+                "state_id": 1,
+                "name": "الدلم",
+                "en_name": "Ad-Dilam",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "منطقة مكة المكرمة",
+        "en_name": "Makkah",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 24,
+                "state_id": 2,
+                "name": "العاصمة المقدسة",
+                "en_name": "Mecca",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 25,
+                "state_id": 2,
+                "name": "جدة",
+                "en_name": "Jeddah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 26,
+                "state_id": 2,
+                "name": "الطائف",
+                "en_name": "Taif",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 27,
+                "state_id": 2,
+                "name": "القنفذة",
+                "en_name": "Al Qunfudhah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 28,
+                "state_id": 2,
+                "name": "الليث",
+                "en_name": "Al Lith",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 29,
+                "state_id": 2,
+                "name": "خليص",
+                "en_name": "Khulais",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 30,
+                "state_id": 2,
+                "name": "الخرمة",
+                "en_name": "Al Khurma",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 31,
+                "state_id": 2,
+                "name": "رنية",
+                "en_name": "Ranyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 32,
+                "state_id": 2,
+                "name": "تربة",
+                "en_name": "Turbah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 33,
+                "state_id": 2,
+                "name": "الجموم",
+                "en_name": "Al-Jumum",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 34,
+                "state_id": 2,
+                "name": "الكامل",
+                "en_name": "Al Kamil",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 35,
+                "state_id": 2,
+                "name": "المويه",
+                "en_name": "Al Muwayh",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 36,
+                "state_id": 2,
+                "name": "ميسان",
+                "en_name": "Maysaan",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 37,
+                "state_id": 2,
+                "name": "أضم",
+                "en_name": "Adham",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 38,
+                "state_id": 2,
+                "name": "العرضيات",
+                "en_name": "Al-Ardiyat",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 39,
+                "state_id": 2,
+                "name": "بحرة",
+                "en_name": "Bahrah",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "منطقة المدينة المنورة",
+        "en_name": "Al-Medina",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 40,
+                "state_id": 3,
+                "name": "المدينة المنورة",
+                "en_name": "Medina",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 41,
+                "state_id": 3,
+                "name": "ينبع",
+                "en_name": "Yanbu",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 42,
+                "state_id": 3,
+                "name": "العلا",
+                "en_name": "AlUla",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 43,
+                "state_id": 3,
+                "name": "المهد",
+                "en_name": "Mahd adh Dhahab",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 44,
+                "state_id": 3,
+                "name": "الحناكية",
+                "en_name": "Al Hinakiyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 45,
+                "state_id": 3,
+                "name": "بدر",
+                "en_name": "Badr",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 46,
+                "state_id": 3,
+                "name": "خيبر",
+                "en_name": "Khaybar",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 47,
+                "state_id": 3,
+                "name": "العيص",
+                "en_name": "Al Ais",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 48,
+                "state_id": 3,
+                "name": "وادي الفرع",
+                "en_name": "Wadi Al Fora'a",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "منطقة القصيم",
+        "en_name": "Qassim",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 49,
+                "state_id": 4,
+                "name": "بريدة",
+                "en_name": "Buraydah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 50,
+                "state_id": 4,
+                "name": "عنيزة",
+                "en_name": "Unaizah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 51,
+                "state_id": 4,
+                "name": "الرس",
+                "en_name": "Ar Rass",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 52,
+                "state_id": 4,
+                "name": "المذنب",
+                "en_name": "Al Mithnab",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 53,
+                "state_id": 4,
+                "name": "البكيرية",
+                "en_name": "Al Bukayriyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 54,
+                "state_id": 4,
+                "name": "البدائع",
+                "en_name": "Al Badayea",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 55,
+                "state_id": 4,
+                "name": "الأسياح",
+                "en_name": "Asyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 56,
+                "state_id": 4,
+                "name": "النبهانية",
+                "en_name": "An Nabhaniyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 57,
+                "state_id": 4,
+                "name": "الشماسية",
+                "en_name": "Al Shimasiyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 58,
+                "state_id": 4,
+                "name": "عيون الجواء",
+                "en_name": "Uyun Al Jawa",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 59,
+                "state_id": 4,
+                "name": "رياض الخبراء",
+                "en_name": "Riyadh Al Khabra",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 60,
+                "state_id": 4,
+                "name": "عقلة الصقور",
+                "en_name": "Uglat Asugour",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 61,
+                "state_id": 4,
+                "name": "ضرية",
+                "en_name": "Dariyah",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "منطقة الشرقية",
+        "en_name": "Eastern",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 62,
+                "state_id": 5,
+                "name": "الدمام",
+                "en_name": "Dammam",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 63,
+                "state_id": 5,
+                "name": "الأحساء",
+                "en_name": "Al-Ahsa",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 64,
+                "state_id": 5,
+                "name": "حفر الباطن",
+                "en_name": "Hafar Al Batin",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 65,
+                "state_id": 5,
+                "name": "الجبيل",
+                "en_name": "Al Jubail",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 66,
+                "state_id": 5,
+                "name": "القطيف",
+                "en_name": "Al Qatif",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 67,
+                "state_id": 5,
+                "name": "الخبر",
+                "en_name": "El Khabar",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 68,
+                "state_id": 5,
+                "name": "الخفجي",
+                "en_name": "Khafji",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 69,
+                "state_id": 5,
+                "name": "رأس تنورة",
+                "en_name": "Ras Tanura",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 70,
+                "state_id": 5,
+                "name": "بقيق",
+                "en_name": "Buqayq",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 71,
+                "state_id": 5,
+                "name": "النعيرية",
+                "en_name": "Nairyah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 72,
+                "state_id": 5,
+                "name": "قرية العليا",
+                "en_name": "Qaryat Al Ulya",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 73,
+                "state_id": 5,
+                "name": "العديد",
+                "en_name": "Inland Sea",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "منطقة عسير",
+        "en_name": "Aseer",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 74,
+                "state_id": 6,
+                "name": "أبها",
+                "en_name": "Abha",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 75,
+                "state_id": 6,
+                "name": "خميس مشيط",
+                "en_name": "Khamis Mushait",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 76,
+                "state_id": 6,
+                "name": "بيشة",
+                "en_name": "Bisha",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 77,
+                "state_id": 6,
+                "name": "النماص",
+                "en_name": "Al Namas",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 78,
+                "state_id": 6,
+                "name": "محايل عسير",
+                "en_name": "Muhayil",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 79,
+                "state_id": 6,
+                "name": "ظهران الجنوب",
+                "en_name": "Dhahran Al Janub",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 80,
+                "state_id": 6,
+                "name": "تثليث",
+                "en_name": "تثليث",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 81,
+                "state_id": 6,
+                "name": "سراة عبيدة",
+                "en_name": "Sarat Abidah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 82,
+                "state_id": 6,
+                "name": "رجال ألمع",
+                "en_name": "Rijal Almaa",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 83,
+                "state_id": 6,
+                "name": "بلقرن",
+                "en_name": "Balqarn",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 84,
+                "state_id": 6,
+                "name": "أحد رفيدة",
+                "en_name": "Ahad Rafidah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 85,
+                "state_id": 6,
+                "name": "المجاردة",
+                "en_name": "Al Majaridah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 86,
+                "state_id": 6,
+                "name": "البرك",
+                "en_name": "Al Birk",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 87,
+                "state_id": 6,
+                "name": "بارق",
+                "en_name": "Bariq",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 88,
+                "state_id": 6,
+                "name": "تنومة",
+                "en_name": "Tanomah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 89,
+                "state_id": 6,
+                "name": "طريب",
+                "en_name": "Tereeb",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 90,
+                "state_id": 6,
+                "name": "الحرجة",
+                "en_name": "Al Harajah",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "منطقة تبوك",
+        "en_name": "Tabouk",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 91,
+                "state_id": 7,
+                "name": "تبوك",
+                "en_name": "Tabuk",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 92,
+                "state_id": 7,
+                "name": "الوجه",
+                "en_name": "Al Wajh",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 93,
+                "state_id": 7,
+                "name": "ضبا",
+                "en_name": "Duba",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 94,
+                "state_id": 7,
+                "name": "تيماء",
+                "en_name": "Tayma",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 95,
+                "state_id": 7,
+                "name": "أملج",
+                "en_name": "Umluj",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 96,
+                "state_id": 7,
+                "name": "حقل",
+                "en_name": "Haql",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 97,
+                "state_id": 7,
+                "name": "البدع",
+                "en_name": "Al-Bad",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "منطقة حائل",
+        "en_name": "Hail",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 98,
+                "state_id": 8,
+                "name": "حائل",
+                "en_name": "Hail",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 99,
+                "state_id": 8,
+                "name": "بقعاء",
+                "en_name": "Baqaa",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 100,
+                "state_id": 8,
+                "name": "الغزالة",
+                "en_name": "Al Ghazalah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 101,
+                "state_id": 8,
+                "name": "الشنان",
+                "en_name": "Ash Shinan",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 102,
+                "state_id": 8,
+                "name": "الحائط",
+                "en_name": "Al Hait",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 103,
+                "state_id": 8,
+                "name": "السليمي",
+                "en_name": "Al Sulaimi",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 104,
+                "state_id": 8,
+                "name": "الشملي",
+                "en_name": "Ash Shamli",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 105,
+                "state_id": 8,
+                "name": "موقق",
+                "en_name": "Mawqaq",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 106,
+                "state_id": 8,
+                "name": "سميراء",
+                "en_name": "Sumaira'a",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "منطقة الحدود الشمالية",
+        "en_name": "Northern Borders",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 107,
+                "state_id": 9,
+                "name": "عرعر",
+                "en_name": "Arʿar",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 108,
+                "state_id": 9,
+                "name": "رفحاء",
+                "en_name": "Rafha",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 109,
+                "state_id": 9,
+                "name": "طريف",
+                "en_name": "Turaif",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 110,
+                "state_id": 9,
+                "name": "العويقيلة",
+                "en_name": "Al Uwayqilah",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "منطقة جازان",
+        "en_name": "Jazan",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 111,
+                "state_id": 10,
+                "name": "جازان",
+                "en_name": "Jazan",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 112,
+                "state_id": 10,
+                "name": "صبيا",
+                "en_name": "Sabya",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 113,
+                "state_id": 10,
+                "name": "أبو عريش",
+                "en_name": "Abu Arish",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 114,
+                "state_id": 10,
+                "name": "صامطة",
+                "en_name": "Samtah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 115,
+                "state_id": 10,
+                "name": "بيش",
+                "en_name": "Baish",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 116,
+                "state_id": 10,
+                "name": "الدرب",
+                "en_name": "Ad Darb",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 117,
+                "state_id": 10,
+                "name": "الحرث",
+                "en_name": "Al Harth",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 118,
+                "state_id": 10,
+                "name": "ضمد",
+                "en_name": "Damad",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 119,
+                "state_id": 10,
+                "name": "الريث",
+                "en_name": "Al Reeth",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 120,
+                "state_id": 10,
+                "name": "فرسان",
+                "en_name": "Farasan",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 121,
+                "state_id": 10,
+                "name": "الدائر",
+                "en_name": "Addayer",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 122,
+                "state_id": 10,
+                "name": "العارضة",
+                "en_name": "Al Aridhah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 123,
+                "state_id": 10,
+                "name": "أحد المسارحة",
+                "en_name": "Ahad Al Masarihah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 124,
+                "state_id": 10,
+                "name": "العيدابي",
+                "en_name": "Al Edabi",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 125,
+                "state_id": 10,
+                "name": "فيفاء",
+                "en_name": "Fayfa",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 126,
+                "state_id": 10,
+                "name": "الطوال",
+                "en_name": "Al Tuwal",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 127,
+                "state_id": 10,
+                "name": "هروب",
+                "en_name": "Fugitive",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "منطقة نجران",
+        "en_name": "Najran",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 128,
+                "state_id": 11,
+                "name": "نجران",
+                "en_name": "Najran",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 129,
+                "state_id": 11,
+                "name": "شرورة",
+                "en_name": "Sharorah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 130,
+                "state_id": 11,
+                "name": "حبونا",
+                "en_name": "Hubuna",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 131,
+                "state_id": 11,
+                "name": "بدر الجنوب",
+                "en_name": "Badr Al Janoub",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 132,
+                "state_id": 11,
+                "name": "يدمه",
+                "en_name": "Yadamah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 133,
+                "state_id": 11,
+                "name": "ثار",
+                "en_name": "Thar",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 134,
+                "state_id": 11,
+                "name": "خباش",
+                "en_name": "Khbash",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 135,
+                "state_id": 11,
+                "name": "الخرخير",
+                "en_name": "Al Kharkhir",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "منطقة الباحة",
+        "en_name": "Al-Baha",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 136,
+                "state_id": 12,
+                "name": "الباحة",
+                "en_name": "Al Bahah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 137,
+                "state_id": 12,
+                "name": "بلجرشي",
+                "en_name": "Baljurashi",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 138,
+                "state_id": 12,
+                "name": "المندق",
+                "en_name": "Al Mandaq",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 139,
+                "state_id": 12,
+                "name": "المخواة",
+                "en_name": "Al Makhwah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 140,
+                "state_id": 12,
+                "name": "قلوة",
+                "en_name": "Qilwah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 141,
+                "state_id": 12,
+                "name": "العقيق",
+                "en_name": "Al Aqiq",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 142,
+                "state_id": 12,
+                "name": "القرى",
+                "en_name": "Al Qara",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 143,
+                "state_id": 12,
+                "name": "غامد الزناد",
+                "en_name": "Ghamed Al-Zinad",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 144,
+                "state_id": 12,
+                "name": "الحجرة",
+                "en_name": "Hajrah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 145,
+                "state_id": 12,
+                "name": "بني حسن",
+                "en_name": "Bani Hasan",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "منطقة الجوف",
+        "en_name": "Al-Jouf",
+        "created_at": null,
+        "updated_at": null,
+        "cities": [
+            {
+                "id": 146,
+                "state_id": 13,
+                "name": "سكاكا",
+                "en_name": "Sakakah",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 147,
+                "state_id": 13,
+                "name": "القريات",
+                "en_name": "Al Qurayyat",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 148,
+                "state_id": 13,
+                "name": "دومة الجندل",
+                "en_name": "Dumat Al-Jandal",
+                "created_at": null,
+                "updated_at": null
+            },
+            {
+                "id": 149,
+                "state_id": 13,
+                "name": "طبرجل",
+                "en_name": "Tabarjal",
+                "created_at": null,
+                "updated_at": null
+            }
+        ]
+    }
+]
